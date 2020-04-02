@@ -1,0 +1,2 @@
+# emoinst
+emo install
